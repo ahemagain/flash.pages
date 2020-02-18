@@ -6,9 +6,7 @@ Flash is an alliance guild on netherguard keep blah blah
 
 more info
 
-## About
-asdasd
+## More Info
 
-## Recruitment etc
-more stuff
-
+- [Guild Philosophy](./manifesto)
+- [loot system](./loot)
