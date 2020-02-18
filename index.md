@@ -12,4 +12,3 @@ asdasd
 ## Recruitment etc
 more stuff
 
-See you ingame
