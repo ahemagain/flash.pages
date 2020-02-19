@@ -17,3 +17,4 @@ more info
 
 - [Guild Philosophy](./manifesto)
 - [loot system](./loot)
+- [Officers](./officers)
